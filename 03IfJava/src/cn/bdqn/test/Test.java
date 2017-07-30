@@ -1,5 +1,6 @@
 package cn.bdqn.test;
 
+
 public class Test {
 	/**
 	 * 逻辑运算符和选择结构的使用 小练习
@@ -46,7 +47,6 @@ public class Test {
 		   System.out.println(num2);
 		 }
 		*/
-
 	}
 
 }
