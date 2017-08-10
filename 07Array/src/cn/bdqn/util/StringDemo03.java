@@ -9,6 +9,7 @@ public class StringDemo03 {
 	 * 02.把String转换成int之后求和
 	 */
 	public static void main(String[] args) {
+
 		String a = "50,20,100,30,400,800";
 		String[] words = a.split(",");
 		// 定义一个变量保存 和
